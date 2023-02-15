@@ -11,9 +11,9 @@ Hello! I'm a CS student @ the University of Central Florida with a passion for s
 <div align="center">
   
   | Projects | Description | Additional Info |
-  | --- | --- |
-  | [CONTACTASAURUS](https://github.com/sspamss/COP4331/tree/main/PersonalContactManager) | Contactasaurus is a user-friendly full-stack contact manager <br> designed to help you easily store, organize, and access your contacts from anywhere.  | http://contactasaurus.com/index.html |
-  | N/A | N/A |
+  | --- | --- | --- |
+  | [CONTACTASAURUS](https://github.com/sspamss/COP4331/tree/main/PersonalContactManager) | Contactasaurus is a user-friendly full-stack contact manager <br> designed to help you easily store, organize, and access your contacts from anywhere. | http://contactasaurus.com/index.html |
+  | N/A | N/A | N/A |
   
   </div>
 
