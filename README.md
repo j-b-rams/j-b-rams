@@ -17,5 +17,5 @@ Hello! I'm a CS student @ the University of Central Florida with a passion for s
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joshabrams111/"><img src="https://github-readme-stats.vercel.app/api?username=j-b-rams&show_icons=true&theme=dark"></a>
+  <a href="https://www.linkedin.com/in/joshabrams111/"><img src="https://github-readme-stats.vercel.app/api?username=j-b-rams&show_icons=true&theme=highcontrast"></a>
 </p>
