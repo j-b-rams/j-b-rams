@@ -8,11 +8,6 @@ Hello! I'm a CS student @ the University of Central Florida with a passion for s
   <a href="https://www.your-portfolio-website-url.com"><img src="https://img.shields.io/badge/Portfolio-Website-purple?logo=google-chrome&logoColor=white"></a>
 </p>
   
- <p align="center">
-   
-   <img src
-  
-  
 <div align="center">
   
   | Projects | Description |
