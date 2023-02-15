@@ -17,6 +17,29 @@ Hello! I'm a CS student @ the University of Central Florida with a passion for s
   
   </div>
 
+  ```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+              [28.60,81.20],
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+  
   
 <!--
 **j-b-rams/j-b-rams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
