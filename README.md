@@ -29,11 +29,8 @@ Hello! I'm a CS student @ the University of Central Florida with a passion for s
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          [
-              28.60,81.20
-          ]
-        ]
+        "properties": {"prop0: value0"},
+        "coordinates": [28.60,81.20]
       }
     }
   ]
