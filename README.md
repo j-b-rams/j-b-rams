@@ -14,5 +14,6 @@ Hello! I'm a CS student @ the University of Central Florida with a passion for s
   | --- | --- | --- |
   | [CONTACTASAURUS](https://github.com/sspamss/COP4331/tree/main/PersonalContactManager) | Contactasaurus is a user-friendly full-stack contact manager designed to help you easily store, edit, and access your contacts from anywhere. | http://contactasaurus.com/index.html |
   | N/A | N/A | N/A |
-  
-  </div>
+</div>
+
+![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-b-rams&show_icons=true&theme=transparent)
