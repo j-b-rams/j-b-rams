@@ -9,10 +9,11 @@ Hello! I'm a CS student @ the University of Central Florida with a passion for s
   
   
   
-| Project | Description |
+| Personal Projects | Description |
 | --- | --- |
+| [CONTACTASAURUS](https://github.com/sspamss/COP4331/tree/main/PersonalContactManager) | N/A |
 | N/A | N/A |
-| N/A | N/A |
+ 
   
 <!--
 **j-b-rams/j-b-rams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
