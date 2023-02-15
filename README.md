@@ -16,4 +16,9 @@ Hello! I'm a CS student @ the University of Central Florida with a passion for s
   | N/A | N/A | N/A |
 </div>
 
+
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-b-rams&show_icons=true&theme=transparent)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joshabrams111/"><img src="https://github-readme-stats.vercel.app/api?username=j-b-rams&show_icons=true&theme=tokyonight"></a>
+</p>
