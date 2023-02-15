@@ -6,6 +6,14 @@ Hello! I'm a CS student @ the University of Central Florida with a passion for s
 
 ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) 
 ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
+  
+  
+  
+| Project | Description |
+| --- | --- |
+| N/A | N/A |
+| N/A | N/A |
+  
 <!--
 **j-b-rams/j-b-rams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +22,6 @@ Hello! I'm a CS student @ the University of Central Florida with a passion for s
 
 
 
-| Project | Description |
-| --- | --- |
-| N/A | N/A |
-| N/A | N/A |
 
 
 Here are some ideas to get you started:
