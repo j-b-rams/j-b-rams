@@ -1,13 +1,20 @@
 ### Hi, I am Josh Abrams 👋
 
-# My Animated Text
-<div class="animated-text" style="animation: type 1s steps(30, end) forwards; white-space: nowrap; overflow: hidden; border-right: 4px solid;">This is my animated text.</div>
-
-<style>
-  @keyframes type {
-    from { width: 0 }
-  }
-</style>
+return DefaultTextStyle(
+  style: const TextStyle(
+    fontSize: 20.0,
+  ),
+  child: AnimatedTextKit(
+    animatedTexts: [
+      WavyAnimatedText('Hello World'),
+      WavyAnimatedText('Look at the waves'),
+    ],
+    isRepeatingAnimation: true,
+    onTap: () {
+      print("Tap Event");
+    },
+  ),
+);
 
 Hello! I'm a CS student @ the University of Central Florida with a passion for solving complex problems and creating innovative solutions. My interests lie in designing elegant and functional solutions while keeping up with the latest technologies and best practices in the field. I have a keen eye for aesthetics and enjoy crafting cool and sophisticated designs. Continuous learning is also a top priority for me, let's work together to make something amazing!
 
