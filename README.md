@@ -2,7 +2,7 @@
 
 Hello! I'm a CS student @ the University of Central Florida with a passion for solving complex problems and creating innovative solutions. My interests lie in designing elegant and functional solutions while keeping up with the latest technologies and best practices in the field. I have a keen eye for aesthetics and enjoy crafting cool and sophisticated designs. Continuous learning is also a top priority for me, let's work together to make something amazing!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue.svg)]([https://link-to-your-page.com](https://www.linkedin.com/in/joshabrams111/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue.svg)](https://www.linkedin.com/in/joshabrams111/)
 
   
   
