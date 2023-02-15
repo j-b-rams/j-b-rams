@@ -1,9 +1,13 @@
 ### Hi, I am Josh Abrams 👋
 
-<div onload="var typed = new Typed('#typed', {strings: ['Slowly printed text effect for my GitHub profile.'],typeSpeed: 40, backSpeed: 20, loop: false });">
-  <h1 id="typed"> Hello </h1>
-</div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
+# My Animated Text
+<div class="animated-text" style="animation: type 1s steps(30, end) forwards; white-space: nowrap; overflow: hidden; border-right: 4px solid;">This is my animated text.</div>
+
+<style>
+  @keyframes type {
+    from { width: 0 }
+  }
+</style>
 
 Hello! I'm a CS student @ the University of Central Florida with a passion for solving complex problems and creating innovative solutions. My interests lie in designing elegant and functional solutions while keeping up with the latest technologies and best practices in the field. I have a keen eye for aesthetics and enjoy crafting cool and sophisticated designs. Continuous learning is also a top priority for me, let's work together to make something amazing!
 
