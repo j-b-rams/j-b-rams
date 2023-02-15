@@ -1,7 +1,7 @@
 ### Hi, I am Josh Abrams 👋
 
 <div onload="var typed = new Typed('#typed', {strings: ['Slowly printed text effect for my GitHub profile.'],typeSpeed: 40, backSpeed: 20, loop: false });">
-  <h1 id="typed"></h1>
+  <h1 id="typed"> Hello </h1>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
 
