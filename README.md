@@ -13,7 +13,7 @@ Hello! I'm a CS student @ the University of Central Florida with a passion for s
   | Projects | Description | Additional Info |
   | --- | --- | --- |
   | [CONTACTASAURUS](https://github.com/sspamss/PersonalContactManager) | Contactasaurus is a user-friendly full-stack contact manager designed to help you easily store, edit, and access your contacts from anywhere. | http://contactasaurus.com/index.html |
-  | [BudgetKnight](https://github.com/nagelwy/Budget-Knight) | N/A | https://budgetknight.herokuapp.com/ |
+  | [Budget Knight](https://github.com/nagelwy/Budget-Knight) | N/A | https://budgetknight.herokuapp.com/ |
   | [College Event Manager](https://github.com/GabLikesCoffee/DB_FinalProject) | N/A | N/A |
   | [AutoEye](https://github.com/COP4655-Group-Project/AutoEye) | N/A | N/A |
 </div>
